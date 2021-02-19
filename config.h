@@ -7,7 +7,7 @@ static const char *fonts[] = {
 	//"monospace:size=12",
     "Fira Mono for Powerline:pixelsize=18:antialias=true:autohint=true",
     "NotoColorEmoji:pixelsize=22:antialias=true:autohint=true",
-    "Symbola:size=14"
+    "Symbola:pixelsize=14:antialias=true:autohint=true"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 static const char *colors[SchemeLast][2] = {
